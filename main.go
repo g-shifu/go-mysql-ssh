@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"go-mysql-ssh/pkg"
+
+	"github.com/g-shifu/go-mysql-ssh/pkg"
 )
 
 func main() {
