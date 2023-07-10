@@ -1,8 +1,6 @@
 # go-mysql-ssh
 Golang MySQL SSH Tunnel 
 
-
-
 Example:
 
 ```go
