@@ -1,16 +1,8 @@
-# go-mysql-ssh
-Golang MySQL SSH Tunnel 
-
-
-
-Example:
-
-```go
 package main
 
 import (
 	"fmt"
-	"github.com/g-shifu/go-mysql-ssh/pkg"
+	"go-mysql-ssh/pkg"
 )
 
 func main() {
@@ -33,5 +25,3 @@ func main() {
 	//close db
 	defer pkg.CloseDB()
 }
-
-```
